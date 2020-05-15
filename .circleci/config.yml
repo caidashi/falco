@@ -1,5 +1,5 @@
 version: 2
-jobs:
+jobs:wrong
   # Build using ubuntu LTS
   # This build is dynamic, most dependencies are taken from the OS
   "build/ubuntu-bionic":
